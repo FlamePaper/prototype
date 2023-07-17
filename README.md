@@ -2,7 +2,7 @@
 
 Root instance inside of pterodactyl server. 
 
-`✅` Require only java 17 to run!
+`🍪` Require only java 17 to run!
 
 ![img1](https://i.ibb.co/1R5xWMF/1.png)
 ![img2](https://i.ibb.co/B4r5578/2.png)
