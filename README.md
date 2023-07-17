@@ -1,7 +1,7 @@
 # 📦 Prototype
 Root instance inside of pterodactyl server. 
 
-`☕` Require only **JAVA 17** to run!
+`☕`  Require only **JAVA 17** to run!
 
 # 🏕 Screenshots
 ![img1](https://i.ibb.co/1R5xWMF/1.png)
